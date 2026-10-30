@@ -1,8 +1,8 @@
 # DGE Studio · Landing Page de Captación y Cine Publicitario
 
-Landing page de alta conversión para **DGE Studio** (Bucaramanga, Santander), productora audiovisual especializada en captación de clientes de alto ticket para los sectores de Glampings, Clínicas Odontológicas y Proyectos Inmobiliarios.
-
-Proyecto desarrollado como parte del **Taller Práctico: Creación de Propuestas y Maquetaciones Web con Inteligencia Artificial (Prompt Engineering)**.
+> 🌐 **Sitio Web Oficial en Producción:** [https://landingdge.netlify.app/](https://landingdge.netlify.app/)  
+> 📦 **Repositorio GitHub:** [https://github.com/lopezvargaserick14-cell/dge_landing](https://github.com/lopezvargaserick14-cell/dge_landing)  
+> 📍 **Ubicación & Contacto:** Bucaramanga, Santander, Colombia · WhatsApp: [+57 320 835 3796](https://wa.me/573208353796)
 
 ---
 
